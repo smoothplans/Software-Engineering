@@ -1,2 +1,2 @@
 # Software-Engineering
-It include everthing for latest software engineering courses.
+It includes everything for latest software engineering courses.
