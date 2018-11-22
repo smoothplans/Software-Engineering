@@ -1,0 +1,6 @@
+
+orbd -ORBInitialPort 1050 -ORBInitialHost localhost&
+java com.bes.corba.test.Server -ORBInitialPort 1050 -ORBInitialHost localhost
+
+
+java com.bes.corba.test.Client -ORBInitialPort 1050 -ORBInitialHost localhost

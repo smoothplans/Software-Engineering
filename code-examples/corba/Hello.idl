@@ -1,0 +1,14 @@
+module com{
+     module bes{
+         module corba{
+             module test{
+                 interface Calc{
+                     void add(in long a,in long b,out long c);
+                     void sub(in long a,in long b,out long c);
+                     void multi(in long a,in long b,out long c);
+                     void div(in long a,in long b,out long c);
+                 };
+             };
+         };
+     };
+ };
